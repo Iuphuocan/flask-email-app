@@ -1,3 +1,4 @@
-Flask
-gunicorn
+Flask==2.0.0
+imaplib2
 beautifulsoup4
+

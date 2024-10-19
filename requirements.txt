@@ -1,5 +1,4 @@
 Flask==2.0.0
-imaplib2
-beautifulsoup4
 gunicorn
-
+beautifulsoup4
+imaplib2
